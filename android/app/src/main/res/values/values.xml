@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">734767170931:android:7deef26380a536be3fb106</string>
+    <string name="google_api_key">AIzaSyDwZlWrYCy3l1wLUV9bb253vKo6xaZG5So</string>
+    <string name="firebase_database_url">https://stock-335f6.firebaseio.com</string>
+    <string name="firebase_storage_bucket">stock-335f6.appspot.com</string>
+    <string name="gcm_defaultSenderId">734767170931</string>
+    <string name="project_id">stock-335f6</string>
+</resources>
